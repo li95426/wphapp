@@ -1,0 +1,52 @@
+{
+  "bannerPic":
+  [
+    "static/mask/da08d1f6-9a5e-4215-8ead-03eebd48b7ee_720x909_70.jpg",
+    "static/mask/99186ccb-9ae9-438e-bfa2-fa29af513a61_720x909_70.jpg",
+    "static/mask/046ca2ad-7fb7-46a4-b659-995662f7c837_720x909_70.jpg",
+    "static/mask/8d53de8a-7a9b-487a-be11-f930c119bc56_720x909_70.jpg",
+    "static/mask/8dee7247-527f-4a09-82ea-d9758025d97f_720x909_70.jpg"
+  ],
+  "saletime":
+  {
+    "nian":"2018",
+    "yue":"10",
+    "ri":"18",
+    "hour":"11"
+  },
+  "saleprice":"33",
+  "price":"78",
+  "producyTitle":"【舒缓修护 补水锁水】原自然乐园 芦荟舒缓保湿凝胶300ml 滋润保湿面膜 芦荟胶",
+  "wpflower":"20",
+  "wpmoney":"16",
+  "fenlei":"均码",
+  "shopPic":"static/mask/primary.png",
+  "shopName":"自然共和国",
+  "nameMsg":"自然界的美肤大师",
+  "message":
+  [
+    "static/mask/shopMsg.jpg"
+  ],
+  "explain":
+  [
+    "static/particulars/explain_01.jpg",
+    "static/particulars/explain_02.jpg"
+  ],
+  "shopImg":
+  [
+    "static/mask/3e483f47-945e-45d7-97d3-d4639d1fb55e.jpg",
+    "static/mask/9608ddd4-171f-4a04-a2b7-7df00d64da7d.jpg",
+    "static/mask/5f445414-bc2f-4e52-932b-baea452f6bd8.jpg",
+    "static/mask/ae1ea723-c0f6-4fc8-aa33-98ee1876259d.jpg",
+    "static/mask/f47c0f8c-364d-4665-9962-babadfd5cf49.jpg",
+    "static/mask/849667c4-5c96-49ad-a7cc-8c6b43a3e161.jpg",
+    "static/mask/849667c4-5c96-49ad-a7cc-8c6b43a3e161.jpg",
+    "static/mask/8a7b90a9-41f5-4e28-8edc-35efdca63ec5.jpg",
+    "static/mask/56cd8a3e-23fe-495d-9495-946844f81696.jpg",
+    "static/mask/be8993ba-6a0a-4658-b210-cfe8bb31c099.jpg",
+    "static/mask/eddd6b5f-ffe1-4818-af7c-5783a8aeeabb.jpg",
+    "static/mask/3e5f8e61-8d29-457e-b503-c77df8e63cbd.jpg",
+    "static/mask/3e5f8e61-8d29-457e-b503-c77df8e63cbd.jpg"
+  ]
+}
+
