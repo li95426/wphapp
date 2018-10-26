@@ -5,7 +5,9 @@
           <a href=""><img :src="i.pic" alt=""></a>
         </div>
     </div>
-    <div class="swiper-pagination dian" id="swiperspan"></div>
+    <div class="swiper-pagination dian" id="swiperspan">
+      
+    </div>
 </div>
 </template>
 
